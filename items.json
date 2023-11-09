@@ -1,7 +1,7 @@
 {
     "items":[
         {
-            "item-name":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
             "item-sale-price":"1999",
             "item-current-price": "999",
             "item-id": "44",
