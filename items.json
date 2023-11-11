@@ -1,15 +1,6 @@
 {
     "items":[
         {
-            "itemName":"ПОВЕРБАНК чорний",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "599",
-            "itemId": "198",
-            "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
-            "itemLink": "undefined",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg"
-        },
-        {
             "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
             "itemSalePrice":"1999",
             "itemCurrentPrice": "999",
@@ -25,7 +16,8 @@
             "itemId": "171",
             "itemDataTitle": "Флісова Кофта",
             "itemLink": "https://fliska1.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg",
+            "itemStyle": "block"
         },
         {
             "itemName":"ЗИМОВІ ТАКТИЧНІ РУКАВИЦІ",
@@ -34,7 +26,8 @@
             "itemId": "200",
             "itemDataTitle": "Рукавиці тактичні",
             "itemLink": "https://gloves.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/7.jpg",
+            "itemStyle": "block"
         },
         {
             "itemName":"АСТРОНАВТ ПРОЕКТОР ЗОРЯНОГО НЕБА",
@@ -43,7 +36,8 @@
             "itemId": "196",
             "itemDataTitle": "Космонавт Зоряне Небо",
             "itemLink": "https://astro.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/astro.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/astro.jpg",
+            "itemStyle": "block"
         },
         {
             "itemName":"ПОТУЖНА НІМЕЦЬКА ЕЛЕКТРОМ'ЯСОРУБКА",
@@ -52,7 +46,8 @@
             "itemId": "194",
             "itemDataTitle": "Grinder",
             "itemLink": "https://grinder.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
+            "itemStyle": "block"
         },
         {
             "itemName":"ПОВЕРБАНК чорний",
@@ -60,8 +55,8 @@
             "itemCurrentPrice": "599",
             "itemId": "198",
             "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
-            "itemLink": "undefined",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg",
+            "itemStyle": "none"
         },
         {
             "itemName":"ПОВЕРБАНК білий",
@@ -70,7 +65,8 @@
             "itemId": "199",
             "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
             "itemLink": "undefined",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg"
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg",
+            "itemStyle": "none"
         }
     ]
 }
