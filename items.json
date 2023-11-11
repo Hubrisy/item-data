@@ -51,6 +51,7 @@
             "itemCurrentPrice": "599",
             "itemId": "198",
             "itemDataTitle": "Power Bank 30000 mAh  ЧОРНИЙ",
+            "itemLink": "undefined",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/powerblack.jpg"
         },
         {
@@ -59,6 +60,7 @@
             "itemCurrentPrice": "599",
             "itemId": "199",
             "itemDataTitle": "Power Bank 30000 mAh  БІЛИЙ",
+            "itemLink": "undefined",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg"
         }
     ]
