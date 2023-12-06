@@ -77,16 +77,6 @@
             "itemLink": "undefined",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/powerwhite.jpg",
             "itemStyle": "none"
-        },
-        {
-            "itemName":"Аєрогріль",
-            "itemSalePrice":"2203",
-            "itemCurrentPrice": "1490",
-            "itemId": "201",
-            "itemDataTitle": "Аєрогріль",
-            "itemLink": "https://aerogrill.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/aerogrill.jpg",
-            "itemStyle": "block"
         }
     ]
 }
