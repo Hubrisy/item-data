@@ -40,13 +40,13 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"АСТРОНАВТ ПРОЕКТОР ЗОРЯНОГО НЕБА",
-            "itemSalePrice":"1650",
-            "itemCurrentPrice": "990",
-            "itemId": "196",
-            "itemDataTitle": "Космонавт Зоряне Небо",
-            "itemLink": "https://astro.dend.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/astro.jpg",
+            "itemName":"Кофемашина",
+            "itemSalePrice":"3300",
+            "itemCurrentPrice": "1650",
+            "itemId": "212",
+            "itemDataTitle": "Кофемашина",
+            "itemLink": "https://coffee.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ka1.jpg",
             "itemStyle": "block"
         },
         {
