@@ -70,6 +70,16 @@
             "itemStyle": "block"
         },
         {
+            "itemName":"Тактичний ліхтар",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "499",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтар",
+            "itemLink": "https://tactical-flashlight.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"ПОВЕРБАНК чорний",
             "itemSalePrice":"999",
             "itemCurrentPrice": "599",
