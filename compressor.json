@@ -1,40 +1,41 @@
 {
     "items":[
         {
-            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "999",
-            "itemId": "44",
-            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemLink": "https://power1.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+            "itemName":"Автомобільний пилосос",
+            "itemSalePrice":"450",
+            "itemCurrentPrice": "149",
+            "itemId": "260",
+            "itemDataTitle": "Автомобільний пилосос",
+            "itemLink": "https://auto-vacuum.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/autovacuum.jpg",
+            "itemStyle": "block"
         },
       {
-            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "999",
-            "itemId": "44",
-            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemLink": "https://power1.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+            "itemName":"Накидка-чoхол на лобове скло",
+            "itemSalePrice":"499",
+            "itemCurrentPrice": "299",
+            "itemId": "333",
+            "itemDataTitle": "Накидка-чехол на лобове скло",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/nakidka.jpg",
+            "itemStyle": "none"
         },
       {
-            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "999",
-            "itemId": "44",
-            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemLink": "https://power1.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+            "itemName":"Автомобільний тримач",
+            "itemSalePrice":"399",
+            "itemCurrentPrice": "299",
+            "itemId": "332",
+            "itemDataTitle": "Автомобільний тримач",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/autoderjatel.jpg",
+            "itemStyle": "none"
         },
       {
-            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemSalePrice":"1999",
-            "itemCurrentPrice": "999",
-            "itemId": "44",
-            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
-            "itemLink": "https://power1.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+            "itemName":"Плівка антидощ для дзеркал на авто",
+            "itemSalePrice":"449",
+            "itemCurrentPrice": "299",
+            "itemId": "334",
+            "itemDataTitle": "Плівка антидощ для дзеркал на авто",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/nakleyka1.jpg",
+            "itemStyle": "none"
         },
         {
             "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
