@@ -1,5 +1,14 @@
 {
     "items":[
+        {
+            "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "999",
+            "itemId": "44",
+            "itemDataTitle": "ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
+            "itemLink": "https://power1.wowteh.store/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/powersun.jpg"
+        },
       {
             "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
             "itemSalePrice":"1999",
