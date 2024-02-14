@@ -1,6 +1,26 @@
 {
     "items":[
         {
+            "itemName":"Міні-пила",
+            "itemSalePrice":"1950",
+            "itemCurrentPrice": "1250",
+            "itemId": "308",
+            "itemDataTitle": "Міні-пила",
+            "itemLink": "https://pila.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Тактичний ліхтар",
+            "itemSalePrice":"990",
+            "itemCurrentPrice": "499",
+            "itemId": "274",
+            "itemDataTitle": "Тактичний ліхтар",
+            "itemLink": "https://tactical-flashlight.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"ПОТУЖНИЙ ЛІХТАР ПОВЕРБАНК",
             "itemSalePrice":"1999",
             "itemCurrentPrice": "999",
@@ -17,16 +37,6 @@
             "itemDataTitle": "Флісова Кофта",
             "itemLink": "https://fliska1.wowteh.store/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/photo_5258456103082118575_y.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Куртка тактична",
-            "itemSalePrice":"3000",
-            "itemCurrentPrice": "1690",
-            "itemId": "211",
-            "itemDataTitle": "Куртка тактична",
-            "itemLink": "https://coat.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/coat.jpg",
             "itemStyle": "block"
         },
         {
@@ -57,26 +67,6 @@
             "itemDataTitle": "Grinder",
             "itemLink": "https://grinder.wowteh.store/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Міні-пила",
-            "itemSalePrice":"1950",
-            "itemCurrentPrice": "1250",
-            "itemId": "308",
-            "itemDataTitle": "Міні-пила",
-            "itemLink": "https://pila.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Тактичний ліхтар",
-            "itemSalePrice":"990",
-            "itemCurrentPrice": "499",
-            "itemId": "274",
-            "itemDataTitle": "Тактичний ліхтар",
-            "itemLink": "https://tactical-flashlight.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/tacticallight.jpg",
             "itemStyle": "block"
         },
         {
