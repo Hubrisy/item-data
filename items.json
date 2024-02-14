@@ -1,6 +1,16 @@
 {
     "items":[
         {
+            "itemName":"Ланцюгова пила",
+            "itemSalePrice":"3200",
+            "itemCurrentPrice": "1599",
+            "itemId": "341",
+            "itemDataTitle": "Ланцюгова пила",
+            "itemLink": "https://minisaw.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/minisaw.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"Міні-пила",
             "itemSalePrice":"1950",
             "itemCurrentPrice": "1250",
@@ -8,6 +18,16 @@
             "itemDataTitle": "Міні-пила",
             "itemLink": "https://pila.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/4.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Секатор",
+            "itemSalePrice":"1999",
+            "itemCurrentPrice": "1099",
+            "itemId": "337",
+            "itemDataTitle": "Секатор",
+            "itemLink": "https://sekator.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/sekator.jpg",
             "itemStyle": "block"
         },
         {
