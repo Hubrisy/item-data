@@ -101,16 +101,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Автомобільний пилосос",
-            "itemSalePrice":"800",
-            "itemCurrentPrice": "399",
-            "itemId": "260",
-            "itemDataTitle": "Автомобільний пилосос",
-            "itemLink": "https://auto-vacuum.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/pilosos.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"Автомобільна мийка",
             "itemSalePrice":"2450",
             "itemCurrentPrice": "1499",
