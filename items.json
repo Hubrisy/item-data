@@ -1,6 +1,16 @@
 {
     "items":[
         {
+            "itemName":"Бордюр садовий",
+            "itemSalePrice":"799",
+            "itemCurrentPrice": "199",
+            "itemId": "469",
+            "itemDataTitle": "Бордюр садовий",
+            "itemLink": "https://zabor.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/bordur.jpg",
+            "itemStyle": "block"
+        },
+        {
             "itemName":"Ланцюгова пила",
             "itemSalePrice":"1950",
             "itemCurrentPrice": "1250",
@@ -45,7 +55,7 @@
             "itemSalePrice":"599",
             "itemCurrentPrice": "399",
             "itemId": "393",
-            "itemDataTitle": "Компрессор",
+            "itemDataTitle": "Насадка на культиватор",
             "itemLink": "https://cultequip.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/culteequip.jpg",
             "itemStyle": "block"
@@ -55,19 +65,9 @@
             "itemSalePrice":"699",
             "itemCurrentPrice": "399",
             "itemId": "489",
-            "itemDataTitle": "Компрессор",
+            "itemDataTitle": "Ручний культиватор",
             "itemLink": "https://kultiv1.dinowaw.site/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/cultivator.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Універсальний набір випічки",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "499",
-            "itemId": "489",
-            "itemDataTitle": "Компрессор",
-            "itemLink": "https://shvabra.dinowaw.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/vipechka.jpg",
             "itemStyle": "block"
         },
         {
@@ -98,16 +98,6 @@
             "itemDataTitle": "Гребінець від вошей",
             "itemLink": "https://comb.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Автомобільна мийка",
-            "itemSalePrice":"2450",
-            "itemCurrentPrice": "1499",
-            "itemId": "350",
-            "itemDataTitle": "Автомобільна мийка",
-            "itemLink": "https://moyka.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/moyka.jpg",
             "itemStyle": "block"
         },
         {
