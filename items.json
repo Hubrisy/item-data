@@ -1,15 +1,5 @@
 {
     "items":[
-         {
-            "itemName":"Душ-палатка",
-            "itemSalePrice":"3000",
-            "itemCurrentPrice": "899",
-            "itemId": "493",
-            "itemDataTitle": "Душ-палатка",
-            "itemLink": "https://dywpalatka.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
-            "itemStyle": "block"
-        },
         {
             "itemName":"Огорожа",
             "itemSalePrice":"99",
@@ -28,6 +18,26 @@
             "itemDataTitle": "Бордюр садовий",
             "itemLink": "https://zabor.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/bordur.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Душ-палатка",
+            "itemSalePrice":"3000",
+            "itemCurrentPrice": "899",
+            "itemId": "493",
+            "itemDataTitle": "Душ-палатка",
+            "itemLink": "https://dywpalatka.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Wifi-camera",
+            "itemSalePrice":"1460",
+            "itemCurrentPrice": "899",
+            "itemId": "545",
+            "itemDataTitle": "Душ-палатка",
+            "itemLink": "https://wificamera.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/wifi.jpg",
             "itemStyle": "block"
         },
         {
