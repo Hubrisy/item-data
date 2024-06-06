@@ -1,5 +1,25 @@
 {
     "items":[
+         {
+            "itemName":"Душ-палатка",
+            "itemSalePrice":"3000",
+            "itemCurrentPrice": "899",
+            "itemId": "493",
+            "itemDataTitle": "Душ-палатка",
+            "itemLink": "https://dywpalatka.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
+            "itemStyle": "block"
+        },
+        {
+            "itemName":"Огорожа",
+            "itemSalePrice":"99",
+            "itemCurrentPrice": "63",
+            "itemId": "570",
+            "itemDataTitle": "Огорожа",
+            "itemLink": "https://ogorozha2.wawteh.tech/",
+            "itemImg": "https://github.com/Hubrisy/images/raw/main/ogorozha.jpg",
+            "itemStyle": "block"
+        },
         {
             "itemName":"Бордюр садовий",
             "itemSalePrice":"799",
