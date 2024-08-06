@@ -21,26 +21,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Душ-палатка",
-            "itemSalePrice":"3000",
-            "itemCurrentPrice": "899",
-            "itemId": "493",
-            "itemDataTitle": "Душ-палатка",
-            "itemLink": "https://dywpalatka.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/dyw.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Wifi-camera",
-            "itemSalePrice":"1460",
-            "itemCurrentPrice": "899",
-            "itemId": "545",
-            "itemDataTitle": "Душ-палатка",
-            "itemLink": "https://wificamera.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/wifi.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"Ланцюгова пила",
             "itemSalePrice":"1950",
             "itemCurrentPrice": "1250",
@@ -58,26 +38,6 @@
             "itemDataTitle": "Ланцюгова пила",
             "itemLink": "https://ecobord.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/ecobord.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Тактичний ліхтарик",
-            "itemSalePrice":"990",
-            "itemCurrentPrice": "399",
-            "itemId": "274",
-            "itemDataTitle": "Ланцюгова пила",
-            "itemLink": "https://tactical-flashlight.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/flashlight.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Компрессор",
-            "itemSalePrice":"1058",
-            "itemCurrentPrice": "349",
-            "itemId": "274",
-            "itemDataTitle": "Компрессор",
-            "itemLink": "https://compressor.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/compressor.jpg",
             "itemStyle": "block"
         },
         {
@@ -131,16 +91,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Електром'ясорубка",
-            "itemSalePrice":"2600",
-            "itemCurrentPrice": "1399",
-            "itemId": "194",
-            "itemDataTitle": "Електром'ясорубка",
-            "itemLink": "https://grinder.wowteh.store/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/grinder.jpg",
-            "itemStyle": "block"
-        },
-        {
             "itemName":"Висоторіз-секатор",
             "itemSalePrice":"1599",
             "itemCurrentPrice": "999",
@@ -158,26 +108,6 @@
             "itemDataTitle": "Шланг Туман",
             "itemLink": "https://shlang.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/shlang.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Сівалка ручна",
-            "itemSalePrice":"1399",
-            "itemCurrentPrice": "899",
-            "itemId": "454",
-            "itemDataTitle": "Сівалка ручна",
-            "itemLink": "https://sivalka.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/sivalka.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Розсувний турнік",
-            "itemSalePrice":"899",
-            "itemCurrentPrice": "399",
-            "itemId": "455",
-            "itemDataTitle": "Розсувний турнік",
-            "itemLink": "https://smartturnik.morzshop.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/turnik.jpg",
             "itemStyle": "block"
         }
     ]
