@@ -31,44 +31,6 @@
             "itemStyle": "block"
         },
         {
-            "itemName":"Люстра-вентилятор",
-            "itemSalePrice":"1240",
-            "itemCurrentPrice": "649",
-            "itemId": "740",
-            "itemDataTitle": "Люстра-вентилятор",
-            "itemLink": "https://lustra.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/lustra.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Повербанк 4 шнури",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "449",
-            "itemId": "740",
-            "itemDataTitle": "Повербанк 4 шнури",
-            "itemLink": "https://power.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/power10k.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Повербанк 20к",
-            "itemSalePrice":"999",
-            "itemCurrentPrice": "549",
-            "itemId": "749",
-            "itemDataTitle": "Повербанк 20к",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/power20k.jpg",
-            "itemStyle": "none"
-        },
-        {
-            "itemName":"Повербанк 50к",
-            "itemSalePrice":"1299",
-            "itemCurrentPrice": "899",
-            "itemId": "461",
-            "itemDataTitle": "Повербанк 50к",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/power50k.jpg",
-            "itemStyle": "none"
-        },
-        {
             "itemName":"Огорожа",
             "itemSalePrice":"99",
             "itemCurrentPrice": "63",
@@ -136,26 +98,6 @@
             "itemDataTitle": "Розумна косметичка",
             "itemLink": "https://mirror.wawteh.tech/",
             "itemImg": "https://github.com/Hubrisy/images/raw/main/cosmetik.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Сонячна електростанція",
-            "itemSalePrice":"1799",
-            "itemCurrentPrice": "849",
-            "itemId": "512",
-            "itemDataTitle": "Сонячна електростанція",
-            "itemLink": "https://station.morzshop.site/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/station.jpg",
-            "itemStyle": "block"
-        },
-        {
-            "itemName":"Гребінець від вошей",
-            "itemSalePrice":"400",
-            "itemCurrentPrice": "199",
-            "itemId": "295",
-            "itemDataTitle": "Гребінець від вошей",
-            "itemLink": "https://comb.wawteh.tech/",
-            "itemImg": "https://github.com/Hubrisy/images/raw/main/comb.jpg",
             "itemStyle": "block"
         },
         {
